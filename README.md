@@ -1,9 +1,7 @@
 # Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research.
 This repository contains the information about the PLPS dataset.
 
-<a href="[https://youtu.be/xbSjZ5OfPes](https://github.com/li-lindong/PLPS/blob/01727de19dc5ba59b88ffb9c00d11a1f2e9a39cb/Samples.png)" target="_blank">
-<img width="100%, text-align:center" src="/omnidet/gif/omnidet.gif"/>
-</a>
+![image](https://youtu.be/xbSjZ5OfPes](https://github.com/li-lindong/PLPS/blob/01727de19dc5ba59b88ffb9c00d11a1f2e9a39cb/Samples.png)
 
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
