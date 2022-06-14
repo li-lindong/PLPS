@@ -8,8 +8,10 @@ This repository contains the information about the PLPS dataset.
 </center>
 
 **<p align="center">Fig. Samples of actions/activities, emotions and social relations.</p>**
-  
 
+## Dataset Contents
+This dataset version consists of 71 videos with annotations, i.e., individual bounding box of each frame, gender, age, group division, individual action, group activity, individual/group emotion, social relations.
+* Frames
 
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
