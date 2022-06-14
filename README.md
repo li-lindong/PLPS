@@ -11,7 +11,14 @@ This repository contains the information about the PLPS dataset.
 
 ## Dataset Contents
 This dataset version consists of 71 videos with multi-group and multi-level labels, which may surpporting gender/age classification, group detection, action/activity recognition, emotion analysis and social relation understanding.
-* Frames
+* Video frame
+* 2D bounding boxes
+* Gender: Male, Female, Unknown
+* Age: Infant, Child, Teenager, Adult, Old People
+* Social groups: individuals and clusters with two or more people
+* Action/Activity: NA, Crossing, Waiting, Queueing, Talking, Dancing, Sitting, Jogging, Playing, Riding, Doing Sport
+* Individual/Group Emotion: Valance (-2, -1, 0, +1, +2), Arousal (-2, -1, 0, +1, +2), Dominant (-2, -1, 0, +1, +2)
+* Social Relation: Friend, Family, Couple, Professional, Commercial, No Relation
 
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
