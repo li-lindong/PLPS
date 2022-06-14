@@ -2,8 +2,10 @@
 This repository contains the information about the PLPS dataset.
 
 <center>
+  
 ![image](https://github.com/li-lindong/PLPS/blob/01727de19dc5ba59b88ffb9c00d11a1f2e9a39cb/Samples.png)
 <p align="center">Samples of actions/activities, emotions and social relations.</p>
+  
 </center>
 
 ## Paper
