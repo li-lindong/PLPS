@@ -7,7 +7,7 @@ This repository contains the information about the PLPS dataset.
   
 </center>
 
-<p align="center">**Figure.** Samples of actions/activities, emotions and social relations.</p>
+<p align="center">Fig. Samples of actions/activities, emotions and social relations.</p>
   
 
 
