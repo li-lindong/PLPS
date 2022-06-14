@@ -10,7 +10,7 @@ This repository contains the information about the PLPS dataset.
 **<p align="center">Fig. Samples of actions/activities, emotions and social relations.</p>**
 
 ## Dataset Contents
-This dataset version consists of 71 videos with annotations, which may surpporting gender/age classification, group detection, action/activity recognition, emotion analysis and social relation understanding.
+This dataset version consists of 71 videos with multi-group and multi-level labels, which may surpporting gender/age classification, group detection, action/activity recognition, emotion analysis and social relation understanding.
 * Frames
 
 ## Paper
