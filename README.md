@@ -4,9 +4,12 @@ This repository contains the information about the PLPS dataset.
 <center>
   
 ![image](https://github.com/li-lindong/PLPS/blob/01727de19dc5ba59b88ffb9c00d11a1f2e9a39cb/Samples.png)
-<p align="center">Samples of actions/activities, emotions and social relations.</p>
   
 </center>
+
+<p align="center">Figure Samples of actions/activities, emotions and social relations.</p>
+  
+
 
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
