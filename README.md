@@ -3,7 +3,7 @@ This repository contains the information about the PLPS dataset.
 
 <center>
   
-![image](https://github.com/li-lindong/PLPS/blob/01727de19dc5ba59b88ffb9c00d11a1f2e9a39cb/Samples.png)
+![image](https://github.com/li-lindong/PLPS/blob/21929a20170a5fd333b2e762a70b01d43bac9458/Samples.png)
   
 </center>
 
