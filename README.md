@@ -3,8 +3,7 @@ This repository contains the information about the PLPS dataset.
 
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
-Senthil Yogamani, Ciaran Hughes, Jonathan Horgan, Ganesh Sistu, Padraig Varley, Derek O'Dea, Michal Uricar, Stefan Milz, Martin Simon, Karl Amende, Christian Witt, Hazem Rashed, Sumanth Chennupati, Sanjaya Nayak, Saquib Mansoor, Xavier Perroton, Patrick Perez  
-Valeo  
+Linbo Qing, Lindong Li, Shengyu Xu, Yibo Huang, Mei Liu, Rulong Jin, Bo Liu, Tong Niu, Hongqian Wen, Yuchen Wang, Xue Jiang, Yonghong Peng
 IEEE International Conference on Computer Vision (ICCV), 2019 (**Oral**)
 
 If you find our dataset useful, please cite our [paper](https://arxiv.org/abs/1905.01489):
