@@ -52,8 +52,7 @@ To download the PLPS dataset, please agree on the license and provide the below 
 ```
 **Please use the following email template:**
 
-To: qing_lb@scu.edu.cn
-
+To: qing_lb@scu.edu.cn\n
 Subject: Apply for Using PLPS Dataset
 
 I am aware PLPS Terms of Use and I confirm to comply with it.
