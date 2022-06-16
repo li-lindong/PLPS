@@ -9,17 +9,6 @@ This repository contains the information about the PLPS dataset.
 
 **<p align="center">Fig. Samples of actions/activities, emotions and social relations.</p>**
 
-## Dataset Contents
-This dataset version consists of 71 videos with multi-group and multi-level labels, which may surpporting gender/age classification, group detection, action/activity recognition, emotion analysis and social relation understanding.
-* **Video frame**
-* **2D bounding boxes**
-* **Gender**: Male, Female, Unknown
-* **Age**: Infant, Child, Teenager, Adult, Old People
-* **Social groups**: individuals and clusters with two or more people
-* **Action/Activity**: NA, Crossing, Waiting, Queueing, Talking, Dancing, Sitting, Jogging, Playing, Riding, Doing Sport
-* **Individual/Group Emotion**: Valance (-2, -1, 0, +1, +2), Arousal (-2, -1, 0, +1, +2), Dominant (-2, -1, 0, +1, +2)
-* **Social Relation**: Friend, Family, Couple, Professional, Commercial, No Relation
-
 ## Paper
 [Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for pubic life research](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Qing_Public_Life_in_Public_Space_PLPS_A_Multi-Task_Multi-Group_Video_ICCVW_2021_paper.pdf)
 
@@ -38,6 +27,20 @@ If you find our dataset useful, please cite our [paper](https://openaccess.thecv
   pages={3611-3620},  
   doi={10.1109/ICCVW54120.2021.00404}}
 ```
+
+## Dataset Contents
+This dataset version consists of 71 videos with multi-group and multi-level labels, which may surpporting gender/age classification, group detection, action/activity recognition, emotion analysis and social relation understanding.
+* **Video frame**
+* **2D bounding boxes**
+* **Gender**: Male, Female, Unknown
+* **Age**: Infant, Child, Teenager, Adult, Old People
+* **Social groups**: individuals and clusters with two or more people
+* **Action/Activity**: NA, Crossing, Waiting, Queueing, Talking, Dancing, Sitting, Jogging, Playing, Riding, Doing Sport
+* **Individual/Group Emotion**: Valance (-2, -1, 0, +1, +2), Arousal (-2, -1, 0, +1, +2), Dominant (-2, -1, 0, +1, +2)
+* **Social Relation**: Friend, Family, Couple, Professional, Commercial, No Relation
+
+## Privacy Protection
+The original data are from real public spaces, hence the dataset contains some clear faces inevitably. It is very necessary to blur the faces before releasing the dataset. Meanwhile, we also present some experimental results to discuss the influence of blurring. 
 
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
