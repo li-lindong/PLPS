@@ -45,3 +45,20 @@ The PLPS dataset is available for the academic purpose only. Any researcher who 
 All of the PLPS Dataset (data, annotation and software) are copyright by College of Electronics and Information Engineering, Sichuan University and published under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
 
 This dataset is for non-commercial use only. However, if you find yourself or your personal belongings in the data, please contact us, and we will immediately remove the respective images from our servers.
+
+## Download
+To download the PLPS dataset, please agree on the license and provide the below information via email. We will only take applications from organization email (Please DO NOT use the emails from gmail/163/qq). Anyone who uses the PLPS dataset should obey the license and send us an email for registration.
+
+'''
+**Please use the following email template:**
+
+To: qing_lb@scu.edu.cn
+Subject: Apply for Using PLPS Dataset
+
+I am aware PLPS Terms of Use and I confirm to comply with it.
+
+Name: xxx
+Organization: xxx
+Email: xxx
+Tel: xxx
+'''
