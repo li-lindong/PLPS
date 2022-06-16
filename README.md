@@ -49,9 +49,8 @@ This dataset is for non-commercial use only. However, if you find yourself or yo
 ## Download
 To download the PLPS dataset, please agree on the license and provide the below information via email. We will only take applications from organization email (Please DO NOT use the emails from gmail/163/qq). Anyone who uses the PLPS dataset should obey the license and send us an email for registration.
 
-```
 **Please use the following email template:**
-
+```
 To: qing_lb@scu.edu.cn\n
 Subject: Apply for Using PLPS Dataset
 
