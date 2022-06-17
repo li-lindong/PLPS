@@ -63,7 +63,7 @@ The original data are from real public spaces, hence the dataset contains some c
     <td>After bulrring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
-    <td align="center"></td>
+    <td align="center">xx</td>
   </tr>
   
 </table>
