@@ -44,12 +44,28 @@ The original data are from real public spaces, hence the dataset contains some c
 
 <table>
   <caption>Table.1 Experimental results of multi-group activity recognition</caption>
+  
   <tr>
     <th></th>
     <th>Group Clustering</th>
     <th>Individual Action</th>
     <th>Group Activity</th>
   </tr>
+  
+  <tr>
+    <td>Before bulrring</td>
+    <td>64.17</td>
+    <td>51.07</td>
+    <td>55.04</td>
+  </tr>
+
+  <tr>
+    <td>After bulrring</td>
+    <td>64.17</td>
+    <td>51.07</td>
+    <td>55.04</td>
+  </tr>
+  
 </table>
 
 ||
