@@ -47,6 +47,32 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <th></th>
+    <th>Group Clustering</th>
+    <th>Individual Action</th>
+    <th>Group Activity</th>
+  </tr>
+  
+  <tr>
+    <td>Before bulrring</td>
+    <td align="center">64.17</td>
+    <td align="center">51.07</td>
+    <td align="center">55.04</td>
+  </tr>
+
+  <tr>
+    <td>After bulrring</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+  </tr>
+  
+</table>
+
+<table>
+  <caption>Table.2 Experimental results of individual/group emotion recognition.</caption>
+  
+  <tr>
+    <th></th>
     <th colspan="3">Individual</th>
     <th colspan="3">Group</th>
   </tr>
@@ -76,32 +102,6 @@ The original data are from real public spaces, hence the dataset contains some c
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-  </tr>
-  
-</table>
-
-<table>
-  <caption>Table.2 Experimental results of individual/group emotion recognition.</caption>
-  
-  <tr>
-    <th></th>
-    <th>Group Clustering</th>
-    <th>Individual Action</th>
-    <th>Group Activity</th>
-  </tr>
-  
-  <tr>
-    <td>Before bulrring</td>
-    <td align="center">64.17</td>
-    <td align="center">51.07</td>
-    <td align="center">55.04</td>
-  </tr>
-
-  <tr>
-    <td>After bulrring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
