@@ -109,6 +109,43 @@ The original data are from real public spaces, hence the dataset contains some c
   
 </table>
 
+<table>
+  <caption>Table.3 Experimental results of social relation recognition based on pair and group.</caption>
+  
+  <tr>
+    <th></th>
+    <th></th>
+    <th>Friend</th>
+    <th>Family</th>
+    <th>Couple</th>
+    <th>Professional</th>
+    <th>Commercial</th>
+    <th>No Relation</th>
+    <th>mAP</th>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">Pair</td>
+    <td>Before bulrring</td>
+    <td align="center">55.5</td>
+    <td align="center">47.3</td>
+    <td align="center">39.8</td>
+    <td align="center">47.7</td>
+    <td align="center">86.7</td>
+    <td align="center">78.6</td>
+    <td align="center">78.6</td>
+    <td align="center">64.1</td>
+  </tr>
+
+  <tr>
+    <td>After bulrring</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+  </tr>
+  
+</table>
+
 
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
