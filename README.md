@@ -54,7 +54,7 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <td>Before bulrring</td>
-    <td>64.17</td>
+    <td align="center">64.17</td>
     <td>51.07</td>
     <td>55.04</td>
   </tr>
