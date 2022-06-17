@@ -89,12 +89,12 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <td>Before bulrring</td>
-    <td align="center">64.17</td>
-    <td align="center">51.07</td>
-    <td align="center">55.04</td>
-    <td align="center">64.17</td>
-    <td align="center">51.07</td>
-    <td align="center">55.04</td>
+    <td align="center">48.75</td>
+    <td align="center">60.22</td>
+    <td align="center">70.49</td>
+    <td align="center">49.87</td>
+    <td align="center">62.47</td>
+    <td align="center">64.27</td>
   </tr>
 
   <tr>
