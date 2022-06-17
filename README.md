@@ -43,7 +43,48 @@ This dataset version consists of 71 videos with multi-group and multi-level labe
 The original data are from real public spaces, hence the dataset contains some clear faces inevitably. It is very necessary to blur the faces before releasing the dataset. Meanwhile, we also present some experimental results to discuss the influence of blurring. 
 
 <table>
-  <caption>Table.1 Experimental results of multi-group activity recognition</caption>
+  <caption>Table.1 Experimental results of multi-group activity recognition.</caption>
+  
+  <tr>
+    <th></th>
+    <th colspan="3">Individual</th>
+    <th colspan="3">Group</th>
+  </tr>
+  
+  <tr>
+    <th></th>
+    <th>Valance</th>
+    <th>Arousal</th>
+    <th>Dominance</th>
+    <th>Valance</th>
+    <th>Arousal</th>
+    <th>Dominance</th>
+  </tr>
+  
+  <tr>
+    <td>Before bulrring</td>
+    <td align="center">64.17</td>
+    <td align="center">51.07</td>
+    <td align="center">55.04</td>
+    <td align="center">64.17</td>
+    <td align="center">51.07</td>
+    <td align="center">55.04</td>
+  </tr>
+
+  <tr>
+    <td>After bulrring</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+  </tr>
+  
+</table>
+
+<table>
+  <caption>Table.2 Experimental results of individual/group emotion recognition.</caption>
   
   <tr>
     <th></th>
