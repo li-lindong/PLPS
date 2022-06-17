@@ -42,6 +42,7 @@ This dataset version consists of 71 videos with multi-group and multi-level labe
 ## Privacy Protection
 The original data are from real public spaces, hence the dataset contains some clear faces inevitably. It is very necessary to blur the faces before releasing the dataset. Meanwhile, we also present some experimental results to discuss the influence of blurring. 
 |Group Clustering|Individual Action|Group Activity|
+|--|--|--|
 
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
