@@ -55,22 +55,19 @@ The original data are from real public spaces, hence the dataset contains some c
   <tr>
     <td>Before bulrring</td>
     <td align="center">64.17</td>
-    <td>51.07</td>
-    <td>55.04</td>
+    <td align="center">51.07</td>
+    <td align="center">55.04</td>
   </tr>
 
   <tr>
     <td>After bulrring</td>
-    <td>64.17</td>
-    <td>51.07</td>
-    <td>55.04</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center"></td>
   </tr>
   
 </table>
 
-||
-|Group Clustering|Individual Action|Group Activity|
-|--|--|--|
 
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
