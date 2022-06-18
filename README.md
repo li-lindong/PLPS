@@ -130,15 +130,41 @@ The original data are from real public spaces, hence the dataset contains some c
     <td align="center">55.5</td>
     <td align="center">47.3</td>
     <td align="center">39.8</td>
-    <td align="center">47.7</td>
+    <td align="center">47.4</td>
     <td align="center">86.7</td>
-    <td align="center">78.6</td>
     <td align="center">78.6</td>
     <td align="center">64.1</td>
   </tr>
 
   <tr>
     <td>After bulrring</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="2">Group</td>
+    <td>Before bulrring</td>
+    <td align="center">48.5</td>
+    <td align="center">54.2</td>
+    <td align="center">-</td>
+    <td align="center">95.1</td>
+    <td align="center">23.3</td>
+    <td align="center">96.9</td>
+    <td align="center">71.0</td>
+  </tr>
+  
+    <tr>
+    <td>After bulrring</td>
+    <td align="center">xx</td>
+    <td align="center">xx</td>
+    <td align="center">-</td>
+    <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
