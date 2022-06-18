@@ -121,7 +121,7 @@ The original data are from real public spaces, hence the dataset contains some c
     <th width="115px">Professional</th>
     <th width="115px">Commercial</th>
     <th width="115px">No Relation</th>
-    <th>mAP</th>
+    <th width="115px">mAP</th>
   </tr>
   
   <tr>
