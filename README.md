@@ -115,11 +115,11 @@ The original data are from real public spaces, hence the dataset contains some c
   <tr>
     <th></th>
     <th></th>
-    <th>Friend</th>
-    <th>Family</th>
-    <th>Couple</th>
-    <th>Professional</th>
-    <th>Commercial</th>
+    <th width="115px">Friend</th>
+    <th width="115px">Family</th>
+    <th width="115px">Couple</th>
+    <th width="115px">Professional</th>
+    <th width="115px">Commercial</th>
     <th width="115px">No Relation</th>
     <th>mAP</th>
   </tr>
