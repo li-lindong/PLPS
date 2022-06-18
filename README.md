@@ -120,7 +120,7 @@ The original data are from real public spaces, hence the dataset contains some c
     <th>Couple</th>
     <th>Professional</th>
     <th>Commercial</th>
-    <th width="110px">No Relation</th>
+    <th width="115px">No Relation</th>
     <th>mAP</th>
   </tr>
   
