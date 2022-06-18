@@ -115,7 +115,7 @@ The original data are from real public spaces, hence the dataset contains some c
   <tr>
     <th></th>
     <th></th>
-    <th width="300px">Friend</th>
+    <th width="100px">Friend</th>
     <th>Family</th>
     <th>Couple</th>
     <th>Professional</th>
