@@ -172,6 +172,7 @@ The original data are from real public spaces, hence the dataset contains some c
   
 </table>
 
+The rest of experiments is coming soon.
 
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
