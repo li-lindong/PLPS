@@ -40,7 +40,7 @@ This dataset version consists of 71 videos with multi-group and multi-level labe
 * **Social Relation**: Friend, Family, Couple, Professional, Commercial, No Relation
 
 ## Privacy Protection
-The original data are from real public spaces, hence the dataset contains some clear faces inevitably. It is very necessary to blur the faces before releasing the dataset. Meanwhile, we also present some experimental results to discuss the influence of blurring. 
+The original data are from real public spaces, hence the dataset contains some clear faces inevitably. Before releasing this dataset, we blur the faces to protect their privacy. In addition, we also present some experimental results to discuss the influence of blurring. 
 
 <table>
   <caption>Table.1 Experimental results of multi-group activity recognition.</caption>
@@ -53,14 +53,14 @@ The original data are from real public spaces, hence the dataset contains some c
   </tr>
   
   <tr>
-    <td>Before bulrring</td>
+    <td>Before blurring</td>
     <td align="center">64.17</td>
     <td align="center">51.07</td>
     <td align="center">55.04</td>
   </tr>
 
   <tr>
-    <td>After bulrring</td>
+    <td>After blurring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
@@ -88,7 +88,7 @@ The original data are from real public spaces, hence the dataset contains some c
   </tr>
   
   <tr>
-    <td>Before bulrring</td>
+    <td>Before blurring</td>
     <td align="center">48.75</td>
     <td align="center">60.22</td>
     <td align="center">70.49</td>
@@ -98,7 +98,7 @@ The original data are from real public spaces, hence the dataset contains some c
   </tr>
 
   <tr>
-    <td>After bulrring</td>
+    <td>After blurring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
@@ -126,7 +126,7 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <td rowspan="2">Pair</td>
-    <td>Before bulrring</td>
+    <td>Before blurring</td>
     <td align="center">55.5</td>
     <td align="center">47.3</td>
     <td align="center">39.8</td>
@@ -137,7 +137,7 @@ The original data are from real public spaces, hence the dataset contains some c
   </tr>
 
   <tr>
-    <td>After bulrring</td>
+    <td>After blurring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
@@ -149,7 +149,7 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <td rowspan="2">Group</td>
-    <td>Before bulrring</td>
+    <td>Before blurring</td>
     <td align="center">48.5</td>
     <td align="center">54.2</td>
     <td align="center">-</td>
@@ -160,7 +160,7 @@ The original data are from real public spaces, hence the dataset contains some c
   </tr>
   
   <tr>
-    <td>After bulrring</td>
+    <td>After blurring</td>
     <td align="center">xx</td>
     <td align="center">xx</td>
     <td align="center">-</td>
