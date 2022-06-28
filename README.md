@@ -61,9 +61,9 @@ The original data are from real public spaces, hence the dataset contains some c
 
   <tr>
     <td>After blurring</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
+    <td align="center">64.07</td>
+    <td align="center">51.01</td>
+    <td align="center">55.06</td>
   </tr>
   
 </table>
