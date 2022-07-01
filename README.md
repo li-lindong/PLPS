@@ -138,13 +138,13 @@ The original data are from real public spaces, hence the dataset contains some c
 
   <tr>
     <td>After blurring</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
+    <td align="center">55.2</td>
+    <td align="center">38.3</td>
+    <td align="center">35.7</td>
+    <td align="center">46.3</td>
+    <td align="center">86.4</td>
+    <td align="center">82.2</td>
+    <td align="center">61.5</td>
   </tr>
   
   <tr>
@@ -161,13 +161,13 @@ The original data are from real public spaces, hence the dataset contains some c
   
   <tr>
     <td>After blurring</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
+    <td align="center">45.6</td>
+    <td align="center">53.4</td>
     <td align="center">-</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
-    <td align="center">xx</td>
+    <td align="center">94.3</td>
+    <td align="center">25.7</td>
+    <td align="center">95.8</td>
+    <td align="center">70.1</td>
   </tr>
   
 </table>
