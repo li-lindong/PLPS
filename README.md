@@ -172,8 +172,6 @@ The original data are from real public spaces, hence the dataset contains some c
   
 </table>
 
-The rest of experiments is coming soon.
-
 ## Copyright
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the PANDA dataset should obey the licence as below:
 
@@ -186,7 +184,7 @@ To download the PLPS dataset, please agree on the license and provide the below 
 
 **Please use the following email template:**
 ```
-To: li_lindong@stu.scu.edu.cn
+To: lilindong@stu.scu.edu.cn
 Subject: Apply for Using PLPS Dataset
 
 I am aware of PLPS Terms of Use and I confirm to comply with it.
