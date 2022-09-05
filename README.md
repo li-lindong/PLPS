@@ -40,7 +40,7 @@ This dataset version consists of 71 videos with multi-group and multi-level labe
 * **Social Relation**: Friend, Family, Couple, Professional, Commercial, No Relation
 
 ## Privacy Protection
-The original data are from real public spaces, hence the dataset contains some clear faces inevitably. Before releasing this dataset, we blur the faces to protect their privacy. In addition, we also present some experimental results to discuss the influence of blurring. 
+The original data are from real public spaces, hence the dataset contains some clear faces inevitably. Before releasing this dataset, we blur the faces to protect their privacy. In addition, we also present some experiments as the final comparative results. 
 
 <table>
   <caption>Table.1 Experimental results of multi-group activity recognition.</caption>
