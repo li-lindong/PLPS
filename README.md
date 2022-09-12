@@ -188,6 +188,8 @@ To: qing_lb@scu.edu.cn
 Cc(Carbon Copy): lilindong@stu.scu.edu.cn
 Subject: Apply for Using PLPS Dataset
 
+(State the reasons for application.)
+
 I am aware of PLPS Terms of Use and I confirm to comply with it.
 
 The PLPS dataset is available for the academic purpose only. Any researcher who uses the dataset should obey the licence as below:
